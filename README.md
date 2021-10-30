@@ -32,13 +32,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=orosy&layout=compact&theme=radical)
 
   
-<a href="https://github.com/orosy/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=orosy&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/orosy/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=orosy&repo=convoychat" />
-</a>
-  
 <br/>  
 <br/>
 <div align=center>
