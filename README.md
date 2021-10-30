@@ -1,6 +1,3 @@
-<div aling="center">
-
-  
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Taesoo%20Kim&animation=fadeIn&fontSize=90)
   
   
@@ -29,17 +26,15 @@
 <a href="https://velog.io/@hanei100"><img src="https://img.shields.io/badge/Tech Blog-14B885?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@hanei100"/></a>&nbsp
 <a href="https://www.instagram.com/orosy.ts/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/orosy.ts/"/></a>&nbsp
 <a href="mailto:hanei7632@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
-
-<br/>
-<br/>
-  
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=orosy&show_icons=true&theme=radical)
-</a>
-  
+   
 <br/>  
 <br/>
 <div align=center>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Forosy&count_bg=%233DA9C8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 </div>  
-</div>
+
+<br/>
+<br/>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=orosy&show_icons=true&theme=radical)
+  
