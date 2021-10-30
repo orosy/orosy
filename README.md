@@ -25,6 +25,8 @@
 <a href="https://www.instagram.com/orosy.ts/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/orosy.ts/"/></a>&nbsp
 <a href="mailto:hanei7632@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=orosy&show_icons=true&theme=radical)  
+  
 <br/>
 <p align=center>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Taesoo&show_icons=true&theme=radical)
