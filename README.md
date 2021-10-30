@@ -39,10 +39,10 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=orosy&show_icons=true&theme=radical)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=orosy&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
   
   
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/orosy/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=orosy&repo=github-readme-stats" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=toplangs" />
+<a href="https://github.com/orosy/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=orosy&repo=toplangs" />
 </a>
 
