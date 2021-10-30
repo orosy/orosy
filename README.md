@@ -18,3 +18,4 @@
 <a href="https://velog.io/@hanei100"><img src="https://img.shields.io/badge/Tech Blog-14B885?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@hanei100"/></a>&nbsp
 <a href="https://www.instagram.com/orosy.ts/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/orosy.ts/"/></a>&nbsp
 <a href="mailto:"hanei7632@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hanei7632@gmail.com"/></a>&nbsp  
+<a href="mailto:hanei7632@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
