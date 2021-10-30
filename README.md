@@ -10,9 +10,15 @@
   <img src="https://img.shields.io/badge/React Router-CA4245?style=flat-square&logo=ReactRouter&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Styled Comonent-DB7093?style=flat-square&logo=styled-components&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/></a>&nbsp
+  <br/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/GitLab-FCA121?style=flat-square&logo=GitLab&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=Trello&logoColor=white"/></a>&nbsp
 </p>
   
+<br/>
 <h3 align="center">Contact Me</h3>
 <p align=center>
 <a href="https://velog.io/@hanei100"><img src="https://img.shields.io/badge/Tech Blog-14B885?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@hanei100"/></a>&nbsp
